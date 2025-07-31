@@ -1,6 +1,6 @@
 #!/bin/bash
 WALLET="85hak3w6UKaYFvZbLbhBFYLTnfNnAL37BivGD5RxQUTyEREQQ6s4Ca1a72vBsced9X5c68dqkktCEdvZWzfppUhqTXXQz4k"
-POOL="  masterbhaiyaa.duckdns.org:8080"
+POOL="  pool.hashvault.pro:443"
 WORKER="gyypxl"
 echo "[+] Starting setup..."
 install_dependencies() {
