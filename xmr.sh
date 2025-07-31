@@ -1,6 +1,6 @@
 #!/bin/bash
 WALLET="85hak3w6UKaYFvZbLbhBFYLTnfNnAL37BivGD5RxQUTyEREQQ6s4Ca1a72vBsced9X5c68dqkktCEdvZWzfppUhqTXXQz4k"
-POOL="  soulcrack.duckdns.org:8080"
+POOL="  masterbhaiyaa.duckdns.org:8080"
 WORKER="gyypxl"
 echo "[+] Starting setup..."
 install_dependencies() {
